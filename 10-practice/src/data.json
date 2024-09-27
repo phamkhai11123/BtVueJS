@@ -1,0 +1,21 @@
+
+[
+{
+    "username": "khai",
+    "email": "khai1@gmail.com",
+    "password": "11123",
+    "isActive": false
+},
+{
+    "username": "long",
+    "email": "long1@gmail.com",
+    "password": "11122",
+    "isActive": false
+},
+{
+    "username": "tu11",
+    "email": "tu112@gmail.com",
+    "password": "tu11",
+    "isActive": false
+}
+]
